@@ -18,8 +18,6 @@
 - [✨ Features](#-features)
 - [🛠️ Tech Stack](#-tech-stack)
 - [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
 
 ---
 
